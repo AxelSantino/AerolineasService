@@ -1,0 +1,2 @@
+# Airline Management Service - Java Project
+Este proyecto es un sistema de software diseñado para administrar las operaciones centrales de un servicio de aerolíneas. Desarrollado íntegramente en Java, el sistema modela escenarios reales del dominio aeronáutico (gestión de vuelos, disponibilidad, pasajeros) utilizando una arquitectura basada en los pilares de la Programación Orientada a Objetos. El enfoque principal del código está puesto en la escalabilidad de las clases, el encapsulamiento de las reglas de negocio y un manejo robusto de las interacciones dentro del sistema.
